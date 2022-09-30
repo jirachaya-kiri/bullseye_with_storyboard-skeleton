@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21225" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
     <device id="retina6_1" orientation="portrait" appearance="light"/>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21207"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
@@ -126,7 +127,7 @@
                         <outlet property="exactSwitch" destination="zCz-XL-iXx" id="nJF-AM-LjX"/>
                         <outlet property="highScore" destination="PA3-rx-tTV" id="txO-eH-fXD"/>
                         <outlet property="numLabel" destination="v8o-o4-rX7" id="LdX-Ff-2Ba"/>
-                        <outlet property="numSlider" destination="i9Y-TB-esC" id="S87-cV-f0e"/>
+                        <outlet property="numSlider" destination="i9Y-TB-esC" id="gWa-j0-iMF"/>
                         <outlet property="playAgainButton" destination="UBC-dY-0hA" id="vZn-TD-TLc"/>
                         <outlet property="rangeLabel" destination="Z3P-PY-vzg" id="xh6-Wz-txm"/>
                         <outlet property="resultLabel" destination="wCr-sE-vI0" id="kR8-ga-lg0"/>
